@@ -10,6 +10,10 @@
   {
     "name": "Development",
     "doc": "README"
+  },
+  {
+    "name": "1234",
+    "doc": "1234"
   }],
   "logo": "Toggled.png",
   "action": {
